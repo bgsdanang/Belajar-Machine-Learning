@@ -4,10 +4,11 @@
 
 # Belajar Machine Learning
 
-| :scroll: [Sample Dataset pada Scikit-Learn](https://github.com/)  |
-|:--------------------|
-| :scroll: | 
-| :scroll: | 
+| |
+|:--------------------| 
+| :scroll: [Sample Dataset pada Scikit-Learn](https://github.com/)  | 
+| :scroll: |
+| :scroll: |
 | :scroll: |
 
 
