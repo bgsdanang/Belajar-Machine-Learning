@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "machine-learning.jpg" width = 550px>
+  <img src = "Readme/74pZ.gif" width = 450px>
 </p>
 
 # Belajar Machine Learning
