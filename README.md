@@ -3,3 +3,5 @@
 </p>
 
 # Belajar Machine Learning
+
+- [Sample Dataset pada Scikit-Learn](https://www.kaggle.com/c/titanic)
