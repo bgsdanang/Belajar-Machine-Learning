@@ -4,4 +4,10 @@
 
 # Belajar Machine Learning
 
-- [Sample Dataset pada Scikit-Learn](https://www.kaggle.com/c/titanic)
+| [ :star: Sample Dataset pada Scikit-Learn](https://github.com/MyArist/DQLab)  |
+|:--------------------|
+| :sparkles: | 
+| :label: | 
+| :bookmark: |
+
+
