@@ -4,10 +4,10 @@
 
 # Belajar Machine Learning
 
-| [ :star: Sample Dataset pada Scikit-Learn](https://github.com/MyArist/DQLab)  |
+| :label: [Sample Dataset pada Scikit-Learn](https://github.com/)  |
 |:--------------------|
-| :sparkles: | 
 | :label: | 
-| :bookmark: |
+| :scroll: | 
+| :scroll: |
 
 
