@@ -4,7 +4,7 @@
 
 <h1 align = "center"> Belajar Machine Learning </h1>
 
-
+<div align="center">
 
 |  |  |
 |----|----|
@@ -13,4 +13,4 @@
 | :x: |  |
 | :x: |  |
 
-
+</div>
