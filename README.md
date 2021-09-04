@@ -10,7 +10,7 @@
 |----|----|
 | [:open_file_folder:](https://github.com/bgsdanang/Belajar-Machine-Learning/tree/main/learning/Sample%20Dataset%20pada%20Scikit-Learn)| Sample Dataset pada Scikit-Learn | 
 | [:open_file_folder:](https://github.com/bgsdanang/Belajar-Machine-Learning/tree/main/learning/Machine%20Learning%20Workflow%20dengan%20Scikit-Learn) | Machine Learning Workflow dengan Scikit-Learn |
-| :x: | Data preprocessing dengan Scikit-Learn |
+| [:open_file_folder:](https://github.com/bgsdanang/Belajar-Machine-Learning/tree/main/learning/Data%20Preprocessing%20dengan%20Scikit-Learn) | Data preprocessing dengan Scikit-Learn |
 | :x: | Simple Linear Regression dengan Scikit-Learn |
 
 </div>
